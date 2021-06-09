@@ -12,7 +12,7 @@
 ## Known Bugs
 {Used HTML in writting and CSS in styling the website}
 ## Support and contact details
-{Incase of any issues or need for help you can contact 07******.}
+{Incase of any issues or need for help you can contact 076557587}
 ### License
 *{MIT LICENCE.}*
 Copyright (c) {year} **{Veronicah Wangui}**
